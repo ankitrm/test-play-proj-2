@@ -1,0 +1,12 @@
+logs
+.DS_Store
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+project/project
+project/target
+svc/

@@ -10,3 +10,4 @@ target
 project/project
 project/target
 svc/
+*.tar
